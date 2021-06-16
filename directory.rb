@@ -13,6 +13,5 @@ puts "Freddy Krueger"
 puts "The Joker"
 puts "Joeffrey Baratheon"
 puts "Norman Bates"
-print "Overall, we have "
 # finally, we print the total number of students
 puts "Overall, we have #{student_count} great students"
